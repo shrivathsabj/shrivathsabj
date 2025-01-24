@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrivathsabj
-- 👀 I’m interested in Data Science and Data Analytics
-- 🌱 I’m currently learning about Natural Launguage Processing Technique and working on Convolutional Neural Network
+- 👀 I’m interested in building GenAI products
+- 🌱 I’m currently working on creating open source, and unbiased wiki with the help of open source LLMs like Deepseek and Perplexity.
 - 💞️ I’m looking to collaborate on the above mentioned Subjects
 - 📫 
 
